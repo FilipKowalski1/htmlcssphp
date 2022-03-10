@@ -1,0 +1,30 @@
+html {
+    background-color: gray;
+  }
+
+  .center {
+    width: 300px;
+    text-align: center;
+    border: 10px solid black;
+    margin: auto;
+    color: blue;
+    text-shadow: 1px 1px 2px black, 0 0 50px blue, 0 0 5px darkblue;
+  }
+
+  .cos {
+        width: 10em;
+        margin-left:auto;
+        margin-right: auto;
+        text-align: center;
+        background-color: #514F53;
+        padding: 0 20px 20px 20px;
+        border: 10px solid black;
+        height: 400px;
+        width: 500px;
+  }
+
+  .cos1{
+    margin-top: 100px;
+    text-shadow: 1px 1px 2px black, 0 0 50px blue, 0 0 5px darkblue;
+    color:blue
+  }
